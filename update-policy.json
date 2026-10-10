@@ -3,10 +3,10 @@
   "roles": {
     "Client": {
       "updateEnabled": true,
-      "targetVersion": "0.9.2",
-      "releaseTag": "v0.9.7",
-      "baseVersion": "0.9.1",
-      "baseReleaseTag": "v0.9.6"
+      "targetVersion": "0.9.3",
+      "releaseTag": "v0.9.8",
+      "baseVersion": "0.9.2",
+      "baseReleaseTag": "v0.9.7"
     },
     "Support": {
       "updateEnabled": true,
