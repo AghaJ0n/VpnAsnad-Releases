@@ -17,10 +17,10 @@
     },
     "Management": {
       "updateEnabled": true,
-      "targetVersion": "0.9.4",
-      "releaseTag": "v0.9.4",
-      "baseVersion": "0.9.3",
-      "baseReleaseTag": "v0.9.3"
+      "targetVersion": "0.9.5",
+      "releaseTag": "v0.9.5",
+      "baseVersion": "0.9.4",
+      "baseReleaseTag": "v0.9.4"
     }
   }
 }
